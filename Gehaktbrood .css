@@ -1,0 +1,48 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+.center{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px auto;
+    width:60%;
+}
+
+
+h2 {
+  font-size: 20px;
+  line-height: 26px;
+  padding-bottom:
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 36px;
+}
+
+#pargraaf {
+  font-size: 24px;
+  line-height: 32px;
+
+}
+.title{
+  font-size: 32px;
+  line-height: 32px;
+
+}
+#image {
+  height: 400px;
+  width: 600px;:
+}
+ul li{
+  margin-top:10px;
+}
+ol li{
+    margin-bottom: 20px;
+}
+h3 {
+  border-radius: 4px;
+  background-color: #def6ed;
+  margin-top: 25px;
+}
